@@ -1,4 +1,5 @@
-Big Mart Sales Prediction
+Big Mart Sales Prediction:
+
 Objective
 The goal of this project was to develop a machine learning model to predict sales for different products across various stores using historical sales data.
 Data Understanding & Preprocessing
